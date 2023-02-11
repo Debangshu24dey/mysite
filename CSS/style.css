@@ -1,0 +1,56 @@
+body{
+    background-color:#FBF1D3;
+margin: 0px;
+margin-top: 0px;
+margin-right: 0px;
+text-align: center;
+font-family: 'Dancing Script',Verdana, italic ;
+font-size: large;
+}
+.top-container{
+    background-color: #FBF1D3; 
+    margin-top: 0px;
+    position: relative;
+    padding-top: 100px ;
+
+}
+h1{
+    margin: 0px;
+font-family: 'Miltonian';
+
+}
+.Middle-container{
+   
+}
+
+.Bottom-container{
+  
+
+}
+.title{
+    color: #B05A7A;
+    font-style: verdana,italic;
+}
+.goal
+{
+    color: #B05A7A;
+    font-family:'Dancing Script';
+    font-size: large
+}
+.pstyle{
+    font-family:sans-serif;
+    font-size: 30px;
+}
+.Bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.phone{
+    background-color: #FBF1D3;
+}
